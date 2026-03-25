@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- Galaxy Profile README Template
+     Customize this file with your own info, then rename it to README.md
+     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
+     The SVG paths below point to assets/generated/ which are auto-generated
+     by the GitHub Actions workflow or by running: python -m generator.main -->
 
-<!--
-**TRProjects98/TRProjects98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+I fell in love with Web Development, more specifically Front-End Development.
+I am very intressted in this area and I always seek more knowledge.
+
+**Currently at** CAMPUS Lab — Aveiro, Portugal
+
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:reistiago64@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="www.linkedin.com/in/tiago-reis-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+</div>
